@@ -1,6 +1,13 @@
 # Practicum Projects Repository
 ## Project 1: Music profile (basic python)
-The first project on the course.
+**Goal:** 
+
+**Work done:**
+
+**Skills applied**: 
+- [x] data preprocessing
+- [x] Pandas
+- [х] test of hypotheses
 
 ## Project 7: Online tickets booking service (business analysis)
 
