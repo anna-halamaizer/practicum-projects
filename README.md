@@ -12,7 +12,7 @@
 - [x] Pandas
 - [x] test of hypotheses
 
-[link to notebook](https://github.com/anna-halamaizer/practicum-projects/blob/main/project_1_basic_python/Project1_fg.ipynb)
+[Link to notebook](https://github.com/anna-halamaizer/practicum-projects/blob/main/project_1_basic_python/Project1_fg.ipynb)
 
 ## Project 7: Online tickets booking service (business analysis)
 
@@ -26,5 +26,31 @@
 - [x] Matplotlib, Seaborn
 - [x] unit economics, business metrics 
 
-[link to notebook](https://github.com/anna-halamaizer/practicum-projects/blob/main/project_7_business_analysis/project_ba_fg.ipynb)
+[Link to notebook](https://github.com/anna-halamaizer/practicum-projects/blob/main/project_7_business_analysis/project_ba_fg.ipynb)
 
+
+## Final project: Product range analysis
+
+**Goal:** A large retail chain have recently acquired a small local store. It wants to keep it as business, but improve the efficiency of sales. The project’s main
+business goal is to study the assortment of the store :
+• what does the store sell and how it's sold
+• what are popular items? What are items are not popular?
+• what items generate the biggest revenue? What items are sold together and etc.
+Based on our research as a team we need to make recommendations to the head managers on how to change/improve product range.
+
+**Work done:** Preprocessed and explored data, categorised data using lemmatization, categorized item data: by price,
+by key words (using lemmatization), by recency, frequency and monetary value of sales, studied and describe items categories, tested statistical hypothese, developed recomendations, prepared dashboards, prepared presentation
+
+**Skills and knowledge:**
+- [x] data preprocessing, EDA
+- [x] statistical test of hypothesis
+- [x] Pandas, NumPy
+- [x] Matplotlib, Seaborn, Plotly
+- [x] lemmatization
+- [x] RFM segmenation
+- [x] Tableau
+- [x] Power Point
+
+[Link to notebook](https://github.com/anna-halamaizer/practicum-projects/blob/main/Final%20project/Final_project_git.ipynb)
+[Link to dashboards](https://public.tableau.com/app/profile/anna.halamaizer/viz/Productrangeanalysis/Dashboard1Keyword)
+[Link to presentation](https://github.com/anna-halamaizer/practicum-projects/blob/main/Final%20project/Product%20range%20analysis.pdf)
