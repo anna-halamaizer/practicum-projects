@@ -31,15 +31,16 @@
 
 ## Final project: Product range analysis
 
-**Goal:** A large retail chain have recently acquired a small local store. It wants to keep it as business, but improve the efficiency of sales. The project’s main
+**Goal:** A large retail chain has recently acquired a small local store. It wants to keep it as business, but improve the efficiency of sales. The project’s main
 business goal is to study the assortment of the store :
-• what does the store sell and how it's sold
-• what are popular items? What are items are not popular?
-• what items generate the biggest revenue? What items are sold together and etc.
+* what does the store sell and how it's sold
+* what are popular items? What are items are not popular?
+* what items generate the biggest revenue? What items are sold together and etc.
+
 Based on our research as a team we need to make recommendations to the head managers on how to change/improve product range.
 
-**Work done:** Preprocessed and explored data, categorised data using lemmatization, categorized item data: by price,
-by key words (using lemmatization), by recency, frequency and monetary value of sales, studied and describe items categories, tested statistical hypothese, developed recomendations, prepared dashboards, prepared presentation
+**Work done:** Preprocessed and explored data, categorized data using lemmatization, categorized item data: by price,
+by key words (using lemmatization), by recency, frequency and monetary value of sales, studied and describe items categories, tested statistical hypothesis, developed recommendations, prepared dashboards, prepared presentation
 
 **Skills and knowledge:**
 - [x] data preprocessing, EDA
