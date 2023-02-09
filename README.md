@@ -2,6 +2,7 @@
 )
 # Practicum Projects Repository
 ## Project 1: Music profile (basic python)
+
 **Goal:** Compare the music preferences of the cities of Springfield and Shelbyville
 
 **Work done:** Preprocessed data, created user-defined functions, tested hypotheses for users behaviour
@@ -10,6 +11,8 @@
 - [x] data preprocessing
 - [x] Pandas
 - [x] test of hypotheses
+
+[link to notebook](https://github.com/anna-halamaizer/practicum-projects/tree/main/project_1_basic_python)
 
 ## Project 7: Online tickets booking service (business analysis)
 
