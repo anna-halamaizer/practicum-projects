@@ -52,5 +52,7 @@ by key words (using lemmatization), by recency, frequency and monetary value of 
 - [x] Power Point
 
 [Link to notebook](https://github.com/anna-halamaizer/practicum-projects/blob/main/Final%20project/Final_project_git.ipynb)
+
 [Link to dashboards](https://public.tableau.com/app/profile/anna.halamaizer/viz/Productrangeanalysis/Dashboard1Keyword)
+
 [Link to presentation](https://github.com/anna-halamaizer/practicum-projects/blob/main/Final%20project/Product%20range%20analysis.pdf)
