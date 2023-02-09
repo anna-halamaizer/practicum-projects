@@ -12,7 +12,7 @@
 - [x] Pandas
 - [x] test of hypotheses
 
-[link to notebook](https://github.com/anna-halamaizer/practicum-projects/tree/main/project_1_basic_python)
+[link to notebook](https://github.com/anna-halamaizer/practicum-projects/blob/main/project_1_basic_python/Project1_fg.ipynb)
 
 ## Project 7: Online tickets booking service (business analysis)
 
@@ -25,3 +25,6 @@
 - [x] Pandas, NumPy
 - [x] Matplotlib, Seaborn
 - [x] unit economics, business metrics 
+
+[link to notebook](https://github.com/anna-halamaizer/practicum-projects/blob/main/project_7_business_analysis/project_ba_fg.ipynb)
+
