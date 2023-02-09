@@ -7,7 +7,7 @@
 
 **Work done:** Preprocessed data, created user-defined functions, tested hypotheses for users behaviour
 
-**Skills applied**: 
+**Skills and knowledge:**: 
 - [x] data preprocessing
 - [x] Pandas
 - [x] test of hypotheses
@@ -20,7 +20,7 @@
 
 **Work done:** Analyzed of users by cohort and advertising source and calculated  various metrics, including conversion rate, retention rate, life-time value, customer acquisition cost and return on marketing investments.
 
-**Skills applied**: 
+**Skills and knowledge:**: 
 - [x] data preprocessing, EDA
 - [x] Pandas, NumPy
 - [x] Matplotlib, Seaborn
