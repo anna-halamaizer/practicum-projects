@@ -7,7 +7,7 @@
 **Skills applied**: 
 - [x] data preprocessing
 - [x] Pandas
-- [х] test of hypotheses
+- [x] test of hypotheses
 
 ## Project 7: Online tickets booking service (business analysis)
 
