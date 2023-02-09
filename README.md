@@ -1,3 +1,5 @@
+![alt text](https://media.licdn.com/dms/image/C560BAQE8_E2kXqUqhg/company-logo_200_200/0/1651586962780?e=1683763200&v=beta&t=jjyyf3pAm84C8iYSsXp6TzAkP_AA_ZVB8NQ0uF_LKaI
+)
 # Practicum Projects Repository
 ## Project 1: Music profile (basic python)
 **Goal:** Compare the music preferences of the cities of Springfield and Shelbyville
