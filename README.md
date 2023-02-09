@@ -1,7 +1,7 @@
 # Practicum Projects Repository
 ## Project 1: Basic python
 The first project on the course.
-## Project 7: Business analysis
+## Project 7: Online tickets booking service
 
 **Goal:** Provide insights to help optimize marketing expenses
 
