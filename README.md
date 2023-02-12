@@ -55,4 +55,4 @@ Based on our research give recommendations to the head managers on how to change
 
 [Link to dashboards](https://public.tableau.com/app/profile/anna.halamaizer/viz/Productrangeanalysis/Dashboard1Keyword)
 
-[Link to presentation](https://github.com/anna-halamaizer/practicum-projects/blob/main/Final%20project/Product%20range%20analysis.pdf)
+[Link to presentation](https://github.com/anna-halamaizer/practicum-projects/blob/main/Final%20project/Product%20range%20analysis%20v2.pdf)
