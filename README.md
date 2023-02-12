@@ -37,10 +37,9 @@ business goal is to study the assortment of the store :
 * what are popular items? What are items are not popular?
 * what items generate the biggest revenue? What items are sold together and etc.
 
-Based on our research as a team we need to make recommendations to the head managers on how to change/improve product range.
+Based on our research give recommendations to the head managers on how to change/improve product range.
 
-**Work done:** Preprocessed and explored data, categorized data using lemmatization, categorized item data: by price,
-by key words (using lemmatization), by recency, frequency and monetary value of sales, studied and describe items categories, tested statistical hypothesis, developed recommendations, prepared dashboards, prepared presentation
+**Work done:** Preprocessed and explored data, categorized item data: by price, by keywords (using lemmatization), by recency, frequency and monetary value of sales, studied and describe items categories, tested statistical hypothesis, developed recommendations, prepared dashboards, prepared presentation
 
 **Skills and knowledge:**
 - [x] data preprocessing, EDA
