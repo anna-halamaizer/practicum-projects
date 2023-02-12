@@ -43,7 +43,7 @@ Based on our research give recommendations to the head managers on how to change
 
 **Skills and knowledge:**
 - [x] data preprocessing, EDA
-- [x] statistical test of hypothesis
+- [x] statistical hypothesis testing
 - [x] Pandas, NumPy
 - [x] Matplotlib, Seaborn, Plotly
 - [x] lemmatization
