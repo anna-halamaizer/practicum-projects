@@ -77,4 +77,4 @@ This part of a Final project aimed to test ability to make SQL queries to get re
 **Skills and knowledge:**
 - [x] SQL
 
-[Link to notebook]()
+[Link to notebook](https://github.com/anna-halamaizer/practicum-projects/blob/main/Final%20project%20-%20SQL/SQL_git.ipynb)
