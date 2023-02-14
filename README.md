@@ -55,6 +55,7 @@ Based on our research give recommendations to the head managers on how to change
 
 [Link to dashboards](https://public.tableau.com/app/profile/anna.halamaizer/viz/Productrangeanalysis/Dashboard1Keyword)
 
+<<<<<<< HEAD
 [Link to presentation](https://github.com/anna-halamaizer/practicum-projects/blob/main/Final%20project/Product%20range%20analysis.pdf)
 
 ## Final project: A/B testing
@@ -67,3 +68,6 @@ Based on our research give recommendations to the head managers on how to change
 - [x] EDA
 - [x] A/B testing
 - [x] conversion rates and funnel analysis
+=======
+[Link to presentation](https://github.com/anna-halamaizer/practicum-projects/blob/main/Final%20project/Product%20range%20analysis%20v2.pdf)
+>>>>>>> 0153116fce136e17904588498cf5f3220b1a8f9c
