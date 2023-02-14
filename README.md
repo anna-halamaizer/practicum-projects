@@ -67,5 +67,8 @@ Based on our research give recommendations to the head managers on how to change
 - [x] EDA
 - [x] A/B testing
 - [x] conversion rates and funnel analysis
+<<<<<<< HEAD
 
 [Link to notebook](https://github.com/anna-halamaizer/practicum-projects/blob/main/Final%20project%20-%20AB%20testing/AB_testing.ipynb)
+=======
+>>>>>>> 67e4f44412ac9a86fd848fcaa6d8d8c4d445a2f3
