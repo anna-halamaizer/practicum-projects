@@ -3,9 +3,9 @@
 # Practicum Projects Repository
 ## Project 1: Music profile (basic python)
 
-**Goal:** Compare the music preferences of the cities of Springfield and Shelbyville
+**Goal:** Compare the music preferences of the cities of Springfield and Shelbyville.
 
-**Work done:** Preprocessed data, created user-defined functions, tested hypotheses for users behaviour
+**Work done:** Preprocessed data, created user-defined functions, tested hypotheses for users behaviour.
 
 **Skills and knowledge:** 
 - [x] data preprocessing
@@ -16,7 +16,7 @@
 
 ## Project 7: Online tickets booking service (business analysis)
 
-**Goal:** Provide insights to help optimize marketing expenses
+**Goal:** Provide insights to help optimize marketing expenses.
 
 **Work done:** Analyzed of users by cohort and advertising source and calculated  various metrics, including conversion rate, retention rate, life-time value, customer acquisition cost and return on marketing investments.
 
@@ -39,7 +39,7 @@ business goal is to study the assortment of the store :
 
 Based on our research give recommendations to the head managers on how to change/improve product range.
 
-**Work done:** Preprocessed and explored data, categorized item data: by price, by keywords (using lemmatization), by recency, frequency and monetary value of sales, studied and describe items categories, tested statistical hypothesis, developed recommendations, prepared dashboards, prepared presentation
+**Work done:** Preprocessed and explored data, categorized item data: by price, by keywords (using lemmatization), by recency, frequency and monetary value of sales, studied and describe items categories, tested statistical hypothesis, developed recommendations, prepared dashboards, prepared presentation.
 
 **Skills and knowledge:**
 - [x] data preprocessing, EDA
@@ -56,3 +56,14 @@ Based on our research give recommendations to the head managers on how to change
 [Link to dashboards](https://public.tableau.com/app/profile/anna.halamaizer/viz/Productrangeanalysis/Dashboard1Keyword)
 
 [Link to presentation](https://github.com/anna-halamaizer/practicum-projects/blob/main/Final%20project/Product%20range%20analysis.pdf)
+
+## Final project: A/B testing
+
+**Goal:** Evaluate the results of A/B test.
+
+**Work done:** Explored data, checked compliance with technical description for A/B test, calculated conversion rates and builded funnles, evaluated results of A/B test.
+
+**Skills and knowledge:**
+- [x] EDA
+- [x] A/B testing
+- [x] conversion rates and funnel analysis
