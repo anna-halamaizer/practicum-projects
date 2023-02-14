@@ -69,3 +69,12 @@ Based on our research give recommendations to the head managers on how to change
 - [x] conversion rates and funnel analysis
 
 [Link to notebook](https://github.com/anna-halamaizer/practicum-projects/blob/main/Final%20project%20-%20AB%20testing/AB_testing.ipynb)
+
+## Final project: SQL
+
+This part of a Final project aimed to test ability to make SQL queries to get required infromation from relational database. 
+
+**Skills and knowledge:**
+- [x] SQL
+
+[Link to notebook]()
